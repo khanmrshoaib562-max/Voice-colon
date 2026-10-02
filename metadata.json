@@ -1,0 +1,6 @@
+{
+  "name": "Voice Finder Lock",
+  "description": "Smart voice and clap detector to locate your misplaced phone with alarm, flashlight, vibration, and in-app security lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
